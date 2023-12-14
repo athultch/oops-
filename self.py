@@ -12,7 +12,7 @@ name2= input("Enter name: ")
 age2= int(input("Enter age: "))
 
 
-# Creating an instance of the CV class with user input
+# Creating an instance of the CV class with useatulr input
 person1 = CV(name1, age1)
 person2 = CV(name2, age2)
 
